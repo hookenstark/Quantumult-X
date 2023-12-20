@@ -1,0 +1,49 @@
+# NAME: bilibili
+# AUTHOR: Mysterious Pi
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-12-16 02:14:47
+# HOST: 3
+# HOST-KEYWORD: 4
+# HOST-SUFFIX: 30
+# HOST-WILDCARD: 1
+# IP-CIDR: 1061
+# IP6-CIDR: 4
+# USER-AGENT: 1
+# TOTAL: 1104
+
+HOST-SUFFIX,bilibilihelper.com,ChinaMaxNoMedia
+HOST-SUFFIX,bilibilijj.com,ChinaMaxNoMedia
+
+HOST-SUFFIX,acg.tv,ChinaMaxNoMedia
+HOST-SUFFIX,acgvideo.com,ChinaMaxNoMedia
+HOST-SUFFIX,b23.tv,ChinaMaxNoMedia
+HOST-SUFFIX,bigfun.cn,ChinaMaxNoMedia
+HOST-SUFFIX,bigfunapp.cn,ChinaMaxNoMedia
+HOST-SUFFIX,biliapi.com,ChinaMaxNoMedia
+HOST-SUFFIX,biliapi.net,ChinaMaxNoMedia
+HOST-SUFFIX,bilibili.com,ChinaMaxNoMedia
+HOST-SUFFIX,bilibili.tv,ChinaMaxNoMedia
+HOST-SUFFIX,biligame.com,ChinaMaxNoMedia
+HOST-SUFFIX,biligame.net,ChinaMaxNoMedia
+HOST-SUFFIX,bilivideo.cn,ChinaMaxNoMedia
+HOST-SUFFIX,bilivideo.com,ChinaMaxNoMedia
+HOST-SUFFIX,hdslb.com,ChinaMaxNoMedia
+HOST-SUFFIX,im9.com,ChinaMaxNoMedia
+HOST-SUFFIX,smtcdns.net,ChinaMaxNoMedia
+
+USER-AGENT,Bilibili*,ChinaMaxNoMedia
+USER-AGENT,bilibili*,ChinaMaxNoMedia
+
+IP-CIDR,45.43.32.234/32,bilibili
+IP-CIDR,103.151.150.0/23,bilibili
+IP-CIDR,119.29.29.29/32,bilibili
+IP-CIDR,128.1.62.200/32,bilibili
+IP-CIDR,128.1.62.201/32,bilibili
+P-CIDR,150.116.92.250/32,bilibili
+IP-CIDR,164.52.33.178/32,bilibili
+IP-CIDR,164.52.33.182/32,bilibili
+IP-CIDR,164.52.76.18/32,bilibili
+IP-CIDR,203.107.1.33/32,bilibili
+IP-CIDR,203.107.1.34/32,bilibili
+IP-CIDR,203.107.1.65/32,bilibili
+IP-CIDR,203.107.1.66/32,bilibili
